@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=Noto+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Poppins:ital,wght@0,400;0,700;1,400;1,700&family=Roboto+Mono:ital,wght@0,400;0,700;1,400;1,700&family=Rowdies&display=swap');
+
+body {
+  background-color: #310144;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Rowdies', cursive;
+  color: #00cdd4;
+}
+
+#introduction {
+  text-align: center;
+  font-family: 'Noto Sans', sans-serif;
+  color: #dde104;
+}
+
+fieldset {
+  text-align: center;
+  border-left: none;
+  border-right: none;
+  border-radius: 1rem;
+  width: fit-content;
+  margin: 0rem auto;
+  border-color: #00cdd4;
+}
+
+legend {
+  font-family: 'Roboto Mono', monospace;
+  color: #e104c4;
+}
+
+label {
+  font-family: 'Lato', sans-serif;
+  color: #dde104;
+}
+
+input {
+  background-color: #424242;
+  color: #00cdd4;
+}
+
+textarea {
+  background-color: #424242;
+}
+
+#final {
+  text-align: center;
+  font-family: 'Noto Sans', sans-serif;
+  color: #dde104;
+}
+
+#submit {
+  text-align: center;
+}
+
+/* border-color: aliceblue;
+    text-align:justify;
+    width: 200px;
+    text-decoration: dotted;
+    background-color: rgb(208, 179, 235);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: unset;
+    display: inline-block;
+    vertical-align:middle;
+    border-radius: 2px;
+    color: white; */
